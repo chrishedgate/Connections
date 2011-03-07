@@ -1,1 +1,4 @@
 *.tmproj
+pkg/*
+*.gem
+
