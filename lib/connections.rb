@@ -6,5 +6,8 @@ module Connections
     def nodes
       []
     end
+    
+    def add_nodes(src)
+    end
   end
 end
